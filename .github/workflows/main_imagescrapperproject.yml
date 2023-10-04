@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ImageScrapperProject'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3C3B94C8C7FD454BBF7AE12F35DB3970 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8DCC885450A64A16805A733E77DD2AE9 }}
